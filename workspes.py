@@ -1,6 +1,6 @@
 from cryptography.fernet import Fernet
 
-#ey = Fernet.generate_key()
+#key = Fernet.generate_key()
 
 #with open('mykey.key', 'wb') as mykey:
     #mykey.write(key)
